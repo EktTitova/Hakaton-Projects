@@ -1,6 +1,6 @@
 # Обнаружение каверов музыкальных треков
 
-[ipynb](https://github.com/EktTitova/Projects/blob/main/Yandex%20music%20Hakaton/YM-18.ipynb)
+[ipynb](https://github.com/EktTitova/Hakaton-Projects/blob/main/Yandex%20music%20Hakaton/YM-18.ipynb)
 
 ## Описание проекта
 
