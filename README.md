@@ -4,4 +4,4 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Обнаружение каверов треков](https://github.com/EktTitova/Projects/tree/main/Yandex%20music%20Hakaton) | Классификация каверов по текстам             | python, pandas, numpy, sentence-transformers, sklearn, CatBoost |
+| 1.   | [Обнаружение каверов треков](https://github.com/EktTitova/Hakaton-Projects/blob/main/Yandex%20music%20Hakaton/YM-18.ipynb) | Классификация каверов по текстам             | python, pandas, numpy, sentence-transformers, sklearn, CatBoost |
